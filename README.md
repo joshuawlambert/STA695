@@ -24,6 +24,9 @@ Github Education has an excellent developer package for students including $150 
 The $150 AWS credit will expire in one year. Always keep an eye on your AWS account. Shut down the terminal if you are not using it, otherwise it may induce a huge fee.
 
 ## Useful Resources
+### Git Tutorials
++ Interactive Git tutorial at <https://try.github.io/levels/1/challenges/1>
+
 ### Markdown Cheatsheet & Tutorial
 To create nice markdown reports (files with “**.md**” extension), it's very useful to learn some sytaxes.
 

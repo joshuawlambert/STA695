@@ -20,6 +20,7 @@ Github Education has an excellent developer package for students including $150 
 4. To redeem your $150 AWS credit
     + Visit: <https://console.aws.amazon.com/billing/home#/credits>
     + Follow the instructions and enter your promo code that you get from the application approve email.
+    
 The $150 AWS credit will expire in one year. Always keep an eye on your AWS account. Shut down the terminal if you are not using it, otherwise it may induce a huge fee.
 
 ## Useful Resources

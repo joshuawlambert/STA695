@@ -25,7 +25,7 @@ The $150 AWS credit will expire in one year. Always keep an eye on your AWS acco
 
 ## Useful Resources
 ### Git Tutorials
-+ Interactive Git tutorial at <https://try.github.io/levels/1/challenges/1>
++ 15 min interactive Git tutorial at <https://try.github.io/levels/1/challenges/1>
 
 ### Markdown Cheatsheet & Tutorial
 To create nice markdown reports (files with “**.md**” extension), it's very useful to learn some sytaxes.

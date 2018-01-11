@@ -35,6 +35,7 @@ The $150 AWS credit will expire in one year. Always keep an eye on your AWS acco
 + Part 2: https://www.youtube.com/watch?v=l53QjtPvF_A
 + Part 3: https://www.youtube.com/watch?v=HJ_ayBsZytg
 + Part 4: https://www.youtube.com/watch?v=YBdYTgwb2OM
++ https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows/blob/master/AWS/Part_4_IPython_Notebook_Server_on_AWS_EC2_Instance.ipynb
 
 ### Basic Unix/Linus Shell Commands
 + <https://www-xray.ast.cam.ac.uk/~jss/lecture/computing/notes/out/commands_basic/>

@@ -26,7 +26,7 @@ The $150 AWS credit will expire in one year. Always keep an eye on your AWS acco
 ## Useful Resources
 ### Git Tutorials
 + 15 min interactive Git tutorial at <https://try.github.io/levels/1/challenges/1>
-
++ Git Tutorial for Beginners: Command-Line Fundamentals https://www.youtube.com/watch?v=HVsySz-h9r4
 ### Run Jupyter Notebook from AWS
 + <https://doyleax.github.io/Run-Jupyter-Notebook-from-EC2/>
 

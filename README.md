@@ -30,6 +30,12 @@ The $150 AWS credit will expire in one year. Always keep an eye on your AWS acco
 ### Run Jupyter Notebook from AWS
 + <https://doyleax.github.io/Run-Jupyter-Notebook-from-EC2/>
 
+### Easy to follow youtube video on setting up EC2 and Jupyter Notebook
++ Part 1: https://www.youtube.com/watch?v=3KHI5mBV8MY
++ Part 2: https://www.youtube.com/watch?v=l53QjtPvF_A
++ Part 3: https://www.youtube.com/watch?v=HJ_ayBsZytg
++ Part 4: https://www.youtube.com/watch?v=YBdYTgwb2OM
+
 ### Basic Unix/Linus Shell Commands
 + <https://www-xray.ast.cam.ac.uk/~jss/lecture/computing/notes/out/commands_basic/>
 + <https://www.liquidweb.com/kb/new-user-tutorial-basic-shell-commands/>

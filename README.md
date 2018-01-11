@@ -30,6 +30,13 @@ The $150 AWS credit will expire in one year. Always keep an eye on your AWS acco
 ### Run Jupyter Notebook from AWS
 + <https://doyleax.github.io/Run-Jupyter-Notebook-from-EC2/>
 
+### Basic Unix/Linus Shell Commands
++ <https://www-xray.ast.cam.ac.uk/~jss/lecture/computing/notes/out/commands_basic/>
++ <https://www.liquidweb.com/kb/new-user-tutorial-basic-shell-commands/>
+
+### Switch Between R & Python in Jupyter Notebook
++ <https://www.datacamp.com/community/blog/jupyter-notebook-r>
+
 ### Markdown Cheatsheet & Tutorial
 To create nice markdown reports (files with “**.md**” extension), it's very useful to learn some sytaxes.
 

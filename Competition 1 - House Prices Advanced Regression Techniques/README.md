@@ -1,6 +1,8 @@
-### Kaggle Competition Link:
-<https://www.kaggle.com/c/house-prices-advanced-regression-techniques>
+## Please do not upload any data files!
 
-### For each team, please create your own folder with the format "Team - X" where X refers to the team name.
++ #### Kaggle Competition Link:
+  <https://www.kaggle.com/c/house-prices-advanced-regression-techniques>
 
-### Please do not upload any data file!
++ ### For each team, please create your own folder with the format "Team - X" where X refers to the team name.
++ ### Please add a README.md file in your folder along with a link to your **Kaggle Competition** Rank page.
+

@@ -8,4 +8,4 @@ Here is our highest rank!!!!
 
 ## Contribution
 
-We used four base model: LASSO, Gradient Boosting Regressor, LightGBM, and XGBoost. We train each model uing GridSearchCV to find the better parameter. At last, we average these four models with weight. 
+We used four base model: LASSO and LightGBM. We train each model uing GridSearchCV to find the better parameter. At last, we average these four models with weight. 

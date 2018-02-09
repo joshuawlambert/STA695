@@ -4,11 +4,11 @@
 
 ![screenshot_kaggle](screenshot_kaggle.png)
 
-###contribution
+### contribution
 
 The model we used: LightGBM, XGBoost, Lasso, ENet, SVR, Bayesian Ridge, and use cross validation staking models together.
 
 
-###Things we learnedand
+### Things we learned
 
 Data clean is really important!

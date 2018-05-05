@@ -1,0 +1,100 @@
+\documentclass[compress]{beamer}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage[english]{babel}
+\usepackage{subfigure}
+\usepackage{verbatim}
+
+
+\newenvironment{wideitemize}{\itemize\addtolength{\itemsep}{10pt}}{\enditemize}
+
+\mode<presentation>
+{
+\usetheme{UK}
+\setbeamercovered{transparent = 28}
+}
+
+\def\vec#1{\mathchoice{\mbox{\boldmath$\displaystyle\bf#1$}}
+{\mbox{\boldmath$\textstyle\bf#1$}}
+{\mbox{\boldmath$\scriptstyle\bf#1$}}
+{\mbox{\boldmath$\scriptscriptstyle\bf#1$}}}
+
+
+
+
+\title{STA XXX: Title}
+\subtitle{Lecture Y: Lecture Title}
+\author{}\institute{}
+\date{}
+
+
+\begin{document}
+
+%%\begin{withoutheadline}
+%\begin{frame}[plain]
+%%\begin{frame}
+%%\titlepage
+%%\end{frame}
+%%\end{withoutheadline}
+
+{
+
+\begin{withoutheadline}
+	\begin{frame}
+        \titlepage
+    \end{frame} 
+\end{withoutheadline}
+} 
+
+
+
+{
+   \begin{frame}
+       \frametitle{Outline}
+       \tableofcontents
+   \end{frame}
+}
+
+
+
+\AtBeginSection[]
+{
+   \begin{frame}
+       \frametitle{Outline}
+       \tableofcontents[currentsection]
+   \end{frame}
+}
+
+\section{Lecture Topic 1}
+
+\begin{frame}
+\frametitle{Insert Title}
+\begin{itemize}
+  \item Insert material
+\end{itemize}
+\end{frame}
+
+\section{Lecture Topic 2}
+
+\begin{frame}
+\frametitle{Insert Title}
+\begin{itemize}
+  \item Insert material
+\end{itemize}
+\end{frame}
+
+\section{Lecture Topic 3}
+
+\begin{frame}
+\frametitle{Insert Title}
+\begin{itemize}
+  \item Insert material
+\end{itemize}
+\end{frame}
+
+
+\end{document}
+

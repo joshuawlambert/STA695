@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{belkin_manifold_2006}
+M.~Belkin, P.~Niyogi, and V.~Sindhwani, ``Manifold regularization: {A}
+  geometric framework for learning from labeled and unlabeled examples,'' {\em
+  Journal of Machine Learning Research}, vol.~7, pp.~2399--2434, 2006.
+
+\bibitem{weston_deep_2012}
+J.~Weston, F.~Ratle, H.~Mobahi, and R.~Collobert, ``Deep learning via
+  semi-supervised embedding,'' {\em Lecture Notes in Computer Science
+  (including subseries Lecture Notes in Artificial Intelligence and Lecture
+  Notes in Bioinformatics)}, vol.~7700, pp.~639--655, 2012.
+
+\bibitem{zhu_semi-supervised_2003}
+X.~Zhu, Z.~Ghahramani, and J.~Lafferty, ``Semi-{Supervised} {Learning} {Using}
+  {Gaussian} {Fields} and {Harmonic} {Functions},'' in {\em {ICML}}, p.~8,
+  2003.
+
+\bibitem{perozzi_deepwalk:_2014}
+B.~Perozzi, R.~Al-Rfou, and S.~Skiena, ``{DeepWalk}: {Online} {Learning} of
+  {Social} {Representations},'' in {\em Proceedings of the 20th {ACM} {SIGKDD}
+  {International} {Conference} on {Knowledge} {Discovery} and {Data} {Mining}},
+  {KDD} '14, (New York, NY, USA), pp.~701--710, ACM, 2014.
+
+\bibitem{getoor_link-based_2005}
+L.~Getoor, ``Link-based {Classification},'' in {\em Advanced {Methods} for
+  {Knowledge} {Discovery} from {Complex} {Data}}, Advanced {Information} and
+  {Knowledge} {Processing}, pp.~189--207, Springer, London, 2005.
+
+\bibitem{yang_revisiting_2016}
+Z.~Yang, W.~W. Cohen, and R.~Salakhutdinov, ``Revisiting {Semi}-{Supervised}
+  {Learning} with {Graph} {Embeddings},'' {\em arXiv:1603.08861 [cs]}, Mar.
+  2016.
+
+\bibitem{defferrard_convolutional_2016}
+M.~Defferrard, X.~Bresson, and P.~Vandergheynst, ``Convolutional {Neural}
+  {Networks} on {Graphs} with {Fast} {Localized} {Spectral} {Filtering},'' in
+  {\em {NIPS}}, p.~9, 2016.
+
+\bibitem{kipf_semi-supervised_2016}
+T.~N. Kipf and M.~Welling, ``Semi-{Supervised} {Classification} with {Graph}
+  {Convolutional} {Networks},'' {\em arXiv:1609.02907 [cs, stat]}, Sept. 2016.
+
+\bibitem{monti_geometric_2017}
+F.~Monti, D.~Boscaini, J.~Masci, E.~Rodolà, J.~Svoboda, and M.~M. Bronstein,
+  ``Geometric {Deep} {Learning} on {Graphs} and {Manifolds} {Using} {Mixture}
+  {Model} {CNNs},'' in {\em 2017 {IEEE} {Conference} on {Computer} {Vision} and
+  {Pattern} {Recognition} ({CVPR})}, pp.~5425--5434, July 2017.
+
+\end{thebibliography}

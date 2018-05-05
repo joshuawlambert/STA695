@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction to graph and graph learning}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction to attention mechanism}{8}{0}{2}
+\beamer@sectionintoc {3}{Edge latents guided graph attention networks}{14}{0}{3}
+\beamer@sectionintoc {4}{Results}{21}{0}{4}
+\beamer@sectionintoc {5}{Future dirctions}{24}{0}{5}

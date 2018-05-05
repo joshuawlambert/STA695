@@ -1,0 +1,138 @@
+
+\mode<presentation>
+\usepackage{pgfcomp-version-0-65}
+\usepackage{color}
+
+
+\definecolor{Ftitle}{rgb}{0, 0, 0} 
+
+\definecolor{Descitem}{RGB}{0, 0, 139} 
+
+\definecolor{StdTitle}{RGB}{26, 33, 141}
+\definecolor{StdBody}{RGB}{213,24,0}
+
+\definecolor{AlTitle}{RGB}{255, 190, 190}
+\definecolor{AlBody}{RGB}{213,24,0}
+
+\definecolor{ExTitle}{RGB}{201, 217, 217}
+\definecolor{ExBody}{RGB}{213,24,0}
+
+\makeatletter
+    \newenvironment{withoutheadline}{
+        \setbeamertemplate{headline}[default]
+        \def\beamer@entrycode{\vspace*{-\headheight}}
+    }{}
+\makeatother
+
+\setbeamercolor{frametitle}{fg = Ftitle}
+\setbeamercolor{title}{fg = Ftitle}
+
+\setbeamercolor{section in toc}{fg = Ftitle}
+\setbeamercolor{section in toc shaded}{fg = Ftitle}
+
+\setbeamercolor{item}{fg = Ftitle}
+\setbeamercolor{subitem}{fg = Ftitle}
+\setbeamercolor{subsubitem}{fg = Ftitle}
+
+\setbeamercolor{description item}{fg = Descitem}
+
+\setbeamercolor{caption}{fg = Ftitle}
+\setbeamercolor{caption name}{fg = Ftitle}
+
+\setbeamercolor{block title}{fg = Descitem, bg = StdTitle!15!white}
+\setbeamercolor{block body}{bg = StdBody!5!white}
+
+\setbeamercolor{block title alerted}{bg = AlTitle}
+\setbeamercolor{block body alerted}{bg = AlBody!5!white}
+
+\setbeamercolor{block title example}{bg = ExTitle}
+\setbeamercolor{block body example}{bg = ExBody!5!white}
+
+\setbeamercolor{normal text}{fg = Ftitle}
+
+\usefonttheme{professionalfonts}
+
+\setbeamerfont{title}{size = \huge}
+
+\setbeamerfont{frametitle}{size = \Large}
+
+
+
+
+\useinnertheme{rounded}
+\setbeamertemplate{itemize items}[triangle]
+\newcommand{\LogoLine}{%
+  \raisebox{-12mm}[0pt][0pt]{%
+   \begin{pgfpicture}{0mm}{0mm}{0mm}{0mm}
+     \pgfsetlinewidth{0.28mm}
+      \color{gray}
+       \pgfline{\pgfpoint{-3mm}{1mm}}{\pgfpoint{10.8cm}{1mm}}
+    \end{pgfpicture}
+  }
+}
+
+\setbeamertemplate{headline}[text line]{\LogoLine}
+\setbeamertemplate{sidebar canvas right}{
+\vspace*{235pt}\hspace*{-365pt}%
+{\includegraphics[height=38pt]{Statistics.png}}}
+\setbeamertemplate{frametitle}{
+\vspace*{4mm}\hspace*{-2mm}\insertframetitle}
+
+\newcommand{\Ffootline}{%
+  \hfill
+   \vspace{4mm}\textcolor{white}{\large\insertframenumber}\hspace{6mm} 
+}
+
+
+\setbeamertemplate{footline}{%
+  \usebeamerfont{structure}
+   \begin{beamercolorbox}[wd=\paperwidth,ht=2.25ex,dp=1ex]{title in head/foot}
+     \hspace*{4mm} \Ffootline \hspace{4mm}
+   \end{beamercolorbox}}
+
+
+
+\setbeamertemplate{navigation symbols}{}
+
+\newcommand{\TitleLine}{%
+  \raisebox{-12mm}[0pt][0pt]{%
+   \begin{pgfpicture}{0mm}{0mm}{0mm}{0mm}
+     \pgfsetlinewidth{0.10mm}
+      \color{gray}
+       \pgfline{\pgfpoint{55mm}{0mm}}{\pgfpoint{55mm}{50mm}}
+    \end{pgfpicture}}}
+
+
+
+% Title
+\newcommand{\MyTitle}{%
+  \hspace*{60mm}\vspace{-25mm}
+   \centering \inserttitle}
+
+% Subtitle
+\newcommand{\MySubTitle}{%
+\hspace*{60mm}\vspace{-25mm}
+   \centering \footnotesize \textit{\insertsubtitle}}
+
+% Author
+ \newcommand{\MyAuthor}{
+  \hspace*{60mm}\vspace{-25mm}
+\centering \insertauthor}
+
+% Institute
+ \newcommand{\MyInstitute}{
+  \hspace*{60mm}\vspace{-25mm}
+\centering \footnotesize \textit{\insertinstitute}}
+
+% Date
+ \newcommand{\MyDate}{
+   \hspace*{60mm}\vspace{-25mm}
+  \centering \insertdate}
+
+% Image for Logo
+\pgfdeclareimage[width = 0.20\paperwidth]{big}{Statistics.png}
+
+
+\mode
+<all>
+
